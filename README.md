@@ -1,2 +1,12 @@
-# Sandbox-Website-Final-Project-P1-20240206.github.io
-CS10 Lessons about Music Player Promotion
+# Website Final Project: Music Player Promotion
+Website Lessons for Promotion
+
+Image of my GUI: 
+
+Feature Descriptions
+- [] Item 1
+
+Text Descriptions for Website
+
+
+
