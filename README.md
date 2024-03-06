@@ -7,6 +7,12 @@ Feature Descriptions
 - [] Item 1
 
 Text Descriptions for Website
+ - [ ] 
+
+Document Map
+- [ ] Home Page
+- [ ] My GUI Looks like this ...
+- [ ] Here is the music you will enjoy ..
 
 ---
 
